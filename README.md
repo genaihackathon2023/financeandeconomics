@@ -24,7 +24,7 @@ For any questions or more information please contact the event organizers via [e
 
 * June 16-28: Registration ([form](https://forms.gle/3ahFyf1K1bnhwd6y7)) 
 * Saturday, July 1 (1 p.m.–3:00 p.m.): Mixer and ideation event ([Zoom](https://cmu.zoom.us/j/97956607497?pwd=aWRCNVNkRVZUL1FLcldlN0VaSG9VQT09), [Slides](https://drive.google.com/file/d/189UUnR219XYiISq8EXCRHb5WF2cFY4uR/view?usp=sharing))
-* Saturday, July 15 (11 a.m.–1:00 p.m.): Team curation event ([Zoom](https://cmu.zoom.us/j/97956607497?pwd=aWRCNVNkRVZUL1FLcldlN0VaSG9VQT09))
+* Saturday, July 15 (11 a.m.–1:00 p.m.): Team curation event ([Zoom](https://cmu.zoom.us/j/97956607497?pwd=aWRCNVNkRVZUL1FLcldlN0VaSG9VQT09), [Slides](https://drive.google.com/file/d/18vKMNsaa6l4CfCVlSdNUJa3o4iCIYK-V/view?usp=sharing))
 * August 4–6: Hackathon ([Zoom](https://cmu.zoom.us/j/97956607497?pwd=aWRCNVNkRVZUL1FLcldlN0VaSG9VQT09))
 * Friday, August 11 (11 a.m.–1:00 p.m.): Hackathon demo session (Zoom)
 
