@@ -29,7 +29,7 @@ For any questions or more information please contact the event organizers via [e
 * Friday, August 11 (11 a.m.–1:00 p.m.): Hackathon demo session (Zoom)
 
 ## Hackathon schedule:
-* Friday, August 4 (5:00 p.m.): Kickoff session ([Zoom](https://cmu.zoom.us/j/97956607497?pwd=aWRCNVNkRVZUL1FLcldlN0VaSG9VQT09))
+* Friday, August 4 (5:00 p.m.): Kickoff session ([Zoom](https://cmu.zoom.us/j/97956607497?pwd=aWRCNVNkRVZUL1FLcldlN0VaSG9VQT09), [Slides](https://drive.google.com/file/d/1A5BPjO80jk12Xj43oxII8GB9QTQ4O9g_/view?usp=sharing))
 * Saturday, August 5 (10:00 a.m.): Checkpoint 1 ([Zoom](https://cmu.zoom.us/j/97956607497?pwd=aWRCNVNkRVZUL1FLcldlN0VaSG9VQT09))
 * Saturday, August 5 (12:00 p.m.): Spotlight session ([Zoom](https://cmu.zoom.us/j/97956607497?pwd=aWRCNVNkRVZUL1FLcldlN0VaSG9VQT09))
 * Saturday, August 5 (5:00 p.m.): Checkpoint 2 ([Zoom](https://cmu.zoom.us/j/97956607497?pwd=aWRCNVNkRVZUL1FLcldlN0VaSG9VQT09))
